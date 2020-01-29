@@ -34,6 +34,7 @@ GIF created with [recordIt](http://www.recordit.co).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 I changed the names of the variables that I was using to refer to the labels and the text field which caused the app to crash repeatedly.
 
 ## License
